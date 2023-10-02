@@ -1,0 +1,64 @@
+"Tips on How To Incorporate SEO in Your Writing". 
+1. Start with keyword research.
+Be sure to do keyword research and develop topic ideas before writing an article. Keyword research includes several NLP techniques, namely: Entity, Long tail keywords, related keywords and LSI keywords (Latent Semantic Indexing). The function of analyzing keywords is nothing more than words or sentences that are considered semantically relevant by search engines. In general, keyword research aims to find and target keywords more precisely. The goal is for articles posted on a website or blog to be at the top of the main page of user search results on search engines such as Google.
+
+2. Understand Search Intent
+It is important to understand the search intent (or keyword intent) of the user. It covers the reasons why someone searches for something on a search engine. For example, if someone searches for "best dog food," they are probably doing research before purchasing the product. Therefore, your content must match the commercial intent of the keyword.
+By understanding search intent, you can adapt your content to more effectively target keywords and meet user needs.
+The main goal of search engines (like Google) is to provide relevant results to users. So, understanding search intent can impact your ability to rank in search results. So, if you want to rank on Google, you have to make sure your pages fulfill the search intent behind the keywords they target.
+A thorough understanding of search intent can help you:
+- Have a more effective content strategy: by targeting keywords that match the needs of your target audience
+- Create relevant content: by understanding your users' needs and creating content that meets their needs
+- Rank higher in search results: by showing search engines that your content is valuable and relevant to its users
+Search intent types:
+- Navigation intent: User wants to find a specific page (for example, “Gmail login”)
+- Informational intent: Users want to learn more about something (for example, “what is SEO”)
+- Commercial intent: Users want to do research before making a purchasing decision (e.g., “best coffee maker”)
+- Transactional intent: The user wants to complete a specific action, usually a purchase (for example, “buy a folding bike”)
+Search aims and objectives may vary depending on the user's needs. 
+
+Here are some common search intents and objectives:
+Search for information: Search is used to find information about a specific topic, such as word definitions, facts, recent news, or user guides.
+Get answers: Search is used to find answers to questions or problems at hand.
+Search for products or services: Search is used to search for specific products or services, such as clothing, food, airline tickets, or hotels.
+Get recommendations: Search is used to find recommendations about products, restaurants, movies, books, or travel destinations.
+Collect data: Search is used to collect data or information for research or analysis purposes.
+
+3. Application of the Blog title
+Headings help Google crawlers understand blog posts and the sections within them. Keep in mind that an SEO-friendly blog title is very important to attract readers' attention. An effective concept is to create a title that is short, clear and arouses curiosity.
+
+A good title application contains keywords from the target topic without using any symbols (including the colon ":" or the minus sign "-").
+
+Think of crawlers as readers skimming your blog. They want a general idea of what your article will cover, that's your H1. Then your H2, H3, and H4 break down the subtopics within them.
+
+So, your subheadings should reflect the content in the body and include high-intent keywords. When you use the right keywords, meaning keywords that your target audience uses, you have a higher chance of ranking in SERPs.
+
+4. Write for humans, not search engines.
+With all the SEO guidelines, it's easy to forget that when users search Google, they're looking for answers. The best way for you to increase your chances of ranking is to write high-quality blog posts. What does it look like? Thorough answers, scannable sections, organized subtitles, and very detailed.
+
+Each paragraph contains a density of relevant entity and semantic keywords but is not spamming keywords. Remember your audience/reader persona, their motivations, challenges and interests. It's also important to choose topics that resonate with your potential customers and address their problems.
+
+Each H2 heading section has at least 300 words divided into several paragraphs. Each paragraph consists of 2 to 4 sentences (make a random number in each heading/subheading section).
+
+Each sentence should not exceed 20 words, be short, clear and concise. If your sentences exceed 20 syllables, reading becomes difficult. Keep it SEO-friendly. You don't have to shorten all your sentences, it's about balance, not bots.
+
+Do not use common filler transition language.
+Use a well-organized article structure, including the use of H2 headings and H3 subheadings and formatted lists.
+H2 or H2 heading will be the starting point of each main section in the article. H3 subheading to break the main section into sub-sections. Use keywords in Subheadings (H2, H3, etc.) that are relevant to the content below them.
+
+Make sure the use of keywords in headings and subheadings remains natural and not forced. This helps readers understand the hierarchy of information.
+
+Make sure there is a logical flow between headings and subheadings. They must form a coherent narrative.
+
+Avoid too many subheadings. Use as needed to make navigation easier, not to make the article look messy.
+
+Use relevant keywords in headings and subheadings, but avoid misuse. Make it natural. Avoid writing the same sentence or phrase over and over again (This is considered spam). Avoid copying or pasting articles from any source. Write an original article.
+
+5. Keyword optimization.
+Effective SEO optimization aims to increase the visibility of your page in search engines without making the content too overwhelming. It is important to find a natural balance in keyword usage.
+
+In addition to the main keyword, use keyword variations (long-tail keywords) in your content. This will help reach a wider audience. Use synonyms and LSI (Latent Semantic Indexing) keywords for diversification. This enriches the content and avoids repetition. Avoid keyword misuse. Use keywords naturally and only when appropriate to the context.
+
+Remember! Using too many keywords in content can ruin the flow and natural feel of the text. This is a practice to avoid in SEO as it can lead to penalties by search engines.
+
+With this approach, you still take advantage of keywords without sacrificing content quality. Remember that the main goal is to provide useful solutions and information to your audience. If readers find the content difficult to understand, this can give a negative signal to search engines like Google that your content is not relevant to the user's needs.
