@@ -39,16 +39,22 @@ Structure your outline based on top-ranking articles for your target keyword. Em
 5. Write for humans, not search engines.
 With all the SEO rules, it's easy to forget that Google users want answers. Writing high-quality blog entries is the greatest strategy to rank. How does it look? Complete answers, scannable sections, organized subtitles, and very detailed.
 
-Each paragraph is dense with an entity, semantic and related keywords. Do not place excessive keywords, this will be considered as keyword spamming. Consider your reader's persona, difficulties, and interests. You should also choose topics that appeal to potential readers and solve their problems.
+Each paragraph is dense with an entity, semantic and related keywords. Do not place excessive keywords, this will be considered keyword spamming. Consider your reader's persona, difficulties, and interests. You should also choose topics that appeal to potential readers and solve their problems.
 
-Each H2 heading section has at least 300 words divided into several paragraphs. Each paragraph consists of 2 to 4 sentences (make a random number in each heading/subheading section).
+Each H2 heading section has at least 500 words divided into several paragraphs. Each paragraph consists of 2 to 4 sentences (make a random number in each heading/subheading section).
+
+If you use h3, each h3 subheading comprises 2 to 4 paragraphs or 60 words. 
+
+Both the h2 heading and h3 subheading sections must have a different number of paragraphs. But first, use 1 or 2 paragraphs in the h2 heading before we get to the h3 content. Please don't overdo it in writing h3.
 
 Brief, precise, and brief sentences should not exceed 20 words. Reading sentences over 20 syllables is difficult. Write it SEO-friendly. Don't shorten every sentence—balance.
 
 Don't utilize common transition words.
-Use headings H2, subheadings H3, and structured lists to organize the article. H2 or H2 heading will be the starting point of each main section in the article. H3 subheading to break the main section into sub-sections. Use keywords in Subheadings (H2, H3, etc.) that are relevant to the content below them.
+Use headings H2, subheadings H3, and structured lists to organize the article. H2 or H3 heading will be the starting point of each main section in the article. H3 subheading to break the main section into sub-sections. Use keywords in Subheadings (H2, H3, etc.) that are relevant to the content below them.
 
-Keep keywords in headers and subheadings natural. This helps readers understand the hierarchy of information. Make sure headlines and subheadings flow logically. They must form a coherent narrative. Avoid oversubheadings. Use as needed for navigation, not article clutter.
+Keep keywords in headers and subheadings natural. This helps readers understand the hierarchy of information. Make sure headlines and subheadings flow logically. They must form a coherent narrative. Avoid over subheadings. Use as needed for navigation, not article clutter.
+
+Don't overdo it in applying the unordered list format. Everything must look natural.
 
 Take care not to abuse keywords in headers and subheadings. Do it naturally. Avoid repeating sentences (spam). Don't copy or paste articles from anywhere. Write an original article.
 
