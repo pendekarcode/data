@@ -1,4 +1,5 @@
-"Tips on How To Incorporate SEO in Your Writing". 
+"SEO Writing Blog Posts Tips That Rank on Google"
+
 1. Start with keyword research.
 Keyword analysis and topic brainstorming are essential before writing an article. Keyword research uses NLP approaches, including entity, long tail keyword, related keyword, and LSI keyword analysis. Keyword research simply involves looking at phrases web crawlers consider semantically relevant. Keyword research is to find and focus on relevant keywords. The goal is for articles posted on a blog to appear on Google's top page without delay.
 
@@ -18,11 +19,11 @@ Types of search intent
 Search aims and objectives may vary depending on the user's needs.
 
 Some common search goals:
-Find information: Search for word definitions, facts, latest news, or user manuals.
-Search for answers to queries or difficulties.
-Product or service search: Search for clothing, food, airline tickets, or hotels.
-Get recommendations: Search finds product, restaurant, movie, book, and vacation recommendations.
-Search gathers data for research or analysis.
+- Find information: Search for word definitions, facts, latest news, or user manuals.
+- Search for answers to queries or difficulties.
+- Product or service search: Search for clothing, food, airline tickets, or hotels.
+- Get recommendations: Search finds product, restaurant, movie, book, and vacation recommendations.
+- Search gathers data for research or analysis.
 
 3. Application of the Blog title
 Google crawlers understand blog entries and sections with headings. SEO-friendly blog titles are crucial to reader engagement. An effective title is brief, straightforward, and intriguing without any symbol.
@@ -31,7 +32,11 @@ The main title blog should include target topic keywords without any symbols lik
 
 Think of crawlers as readers skimming your blog. Your H1 should give them a sense of your article's topic. Then H2, H3, and H4 divide down subtopics. Heading (H2) and Subheadings(H3) should represent body content and feature high-intent keywords. Your SERP ranking increases when you use terms your target audience uses.
 
-4. Write for humans, not search engines.
+4. Outline Structure
+An SEO-optimized outline with H1, H2, and H3 headings that reflect the main topics covered.
+Structure your outline based on top-ranking articles for your target keyword. Emulate their heading structure. Use heading analyzer tools to create engaging, click-worthy headlines. 
+
+5. Write for humans, not search engines.
 With all the SEO rules, it's easy to forget that Google users want answers. Writing high-quality blog entries is the greatest strategy to rank. How does it look? Complete answers, scannable sections, organized subtitles, and very detailed.
 
 Each paragraph is dense with an entity, semantic and related keywords. Do not place excessive keywords, this will be considered as keyword spamming. Consider your reader's persona, difficulties, and interests. You should also choose topics that appeal to potential readers and solve their problems.
@@ -47,10 +52,15 @@ Keep keywords in headers and subheadings natural. This helps readers understand 
 
 Take care not to abuse keywords in headers and subheadings. Do it naturally. Avoid repeating sentences (spam). Don't copy or paste articles from anywhere. Write an original article.
 
-5. Keyword optimization.
+6. Keyword optimization.
 Effective SEO boosts search engine rankings without overwhelming readers. Keyword usage must be balanced naturally.
 
 Content should include long-tail keywords and the main keyword. It will expand your readership. For variety, use Entity and LSI keywords. It enhances substance and prevents repetition. Avoid keyword misuse. Use keywords naturally and only when appropriate to the context.
+
+Keyword Placement
+- Naturally use your main keyword and variations in the intro, conclusion, H1, H2, and image alt text. Don't over-optimize.
+- Related keywords and semantic keywords should also be woven throughout the content.
+- Mention your keyword 1-2 times in the first and last 100 words of post.
 
 Remember! Keyword overuse may compromise article flow and naturalness. Avoid this SEO strategy to avoid search engine penalties.
 
