@@ -25,18 +25,36 @@ Some common search goals:
 - Get recommendations: Search finds product, restaurant, movie, book, and vacation recommendations.
 - Search gathers data for research or analysis.
 
-3. Application of the Blog title
+3. Explain the goal
+There’s a reason you want this article written (otherwise, why spend time and money creating it?). 
+
+Share your goal with the writer. Help them understand why they’re writing something and they’ll have a better chance at hitting your goal.
+
+Examples:
+Explain how to create an effective content brief.
+Document our experience as sponsors of the BrightonSEO conference.
+Share our CEO’s opinion on cloud architecture.
+Teach existing users how to use our new keyword clustering feature for keyword research.
+
+4. Application of the Blog title
 Google crawlers understand blog entries and sections with headings. SEO-friendly blog titles are crucial to reader engagement. An effective title is brief, straightforward, and intriguing without any symbol.
 
 The main title blog should include target topic keywords without any symbols like ":" or "-".
 
 Think of crawlers as readers skimming your blog. Your H1 should give them a sense of your article's topic. Then H2, H3, and H4 divide down subtopics. Heading (H2) and Subheadings(H3) should represent body content and feature high-intent keywords. Your SERP ranking increases when you use terms your target audience uses.
 
-4. Outline Structure
+5. Outline Structure
 An SEO-optimized outline with H1, H2, and H3 headings that reflect the main topics covered.
-Structure your outline based on top-ranking articles for your target keyword. Emulate their heading structure. Use heading analyzer tools to create engaging, click-worthy headlines. 
+Structure your outline based on top-ranking articles for your target keyword. Emulate their heading structure. Use heading analyzer tools to create engaging, click-worthy headlines.
 
-5. Write for humans, not search engines.
+Share sub-topics to include
+You can help your writer by suggesting important sub-topics to include in the article.
+
+Common sense is a helpful guide: for an article about content briefs, you’d probably want to include a definition and a tutorial for actually creating a content brief.
+
+You can also take a more data-driven approach to finding sub-topics.
+
+6. Write for humans, not search engines.
 With all the SEO rules, it's easy to forget that Google users want answers. Writing high-quality blog entries is the greatest strategy to rank. How does it look? Complete answers, scannable sections, organized subtitles, and very detailed.
 
 Each paragraph is dense with an entity, semantic and related keywords. Do not place excessive keywords, this will be considered keyword spamming. Consider your reader's persona, difficulties, and interests. You should also choose topics that appeal to potential readers and solve their problems.
@@ -49,6 +67,15 @@ Both the h2 heading and h3 subheading sections must have a different number of p
 
 Brief, precise, and brief sentences should not exceed 20 words. Reading sentences over 20 syllables is difficult. Write it SEO-friendly. Don't shorten every sentence—balance.
 
+Suggest ways to make the article unique
+Virtually every article has to compete for attention with similar articles covering the same topic. To help your article stand out, you can suggest unique information to include—things that competing articles don’t cover.
+
+You could include data and statistics to reference. You could even share a few personal experiences and stories that might help the reader understand the topic.
+
+Examples:
+Let’s tell the story of how I used keyword clustering to rank for 1200-keywords with one article.
+Here’s some research about the costs of cloud hosting for you to reference.
+
 Don't utilize common transition words.
 Use headings H2, subheadings H3, and structured lists to organize the article. H2 or H3 heading will be the starting point of each main section in the article. H3 subheading to break the main section into sub-sections. Use keywords in Subheadings (H2, H3, etc.) that are relevant to the content below them.
 
@@ -58,7 +85,7 @@ Don't overdo it in applying the unordered list format. Everything must look natu
 
 Take care not to abuse keywords in headers and subheadings. Do it naturally. Avoid repeating sentences (spam). Don't copy or paste articles from anywhere. Write an original article.
 
-6. Keyword optimization.
+7. Keyword optimization.
 Effective SEO boosts search engine rankings without overwhelming readers. Keyword usage must be balanced naturally.
 
 Content should include long-tail keywords and the main keyword. It will expand your readership. For variety, use Entity and LSI keywords. It enhances substance and prevents repetition. Avoid keyword misuse. Use keywords naturally and only when appropriate to the context.
