@@ -1,12 +1,11 @@
 "SEO Writing Blog Posts Tips That Rank on Google"
 
 1. Start with keyword research.
-Writing an article requires keyword research and topic thinking. Entity, long tail, related, and LSI keyword analysis are NLP methods for keyword research. Keyword research entails looking at semantically relevant terms for web spiders. Find and focus on suitable keywords with keyword research. The goal is to get blog posts on Google's top page quickly.
+Keyword analysis and topic brainstorming are essential before writing an article. Keyword research uses NLP approaches, including entity, long tail keyword, related keyword, and LSI keyword analysis. Keyword research simply involves looking at phrases web crawlers consider semantically relevant. Keyword research is to find and focus on relevant keywords. The goal is for articles posted on a blog to appear on Google's top page without delay.
 
 2. Understand Search Intent
-Understanding user keyword intent is vital. Search engines are used for this reason. It explains why people use search engines. When someone looks for "best dog food," they're studying before buying. Therefore, your content must match the keyword's commercial intent.
-
-Analysis of search intent lets you adjust content to keywords and user needs. Search engines like Google provide relevant results. Understanding search intent impacts rankings. Your pages must match keyword search intent to rank on Google.
+Understanding user search intent (keyword intent) is crucial. It explains why people use search engines. It covers the reasons why someone searches for something on a search engine. For example, If someone searches for "best dog food," they're definitely researching before buying. Therefore, your material must fit the keyword's commercial intent.
+By analyzing search intent, you may tailor content to keywords and user demands. Search engines like Google aim to offer relevant results. Understanding search intent affects search rankings. To rank on Google, your pages must meet the search intent behind the keywords they target.
 Knowing search intent helps:
 - Target keywords that meet your audience's needs to improve your content strategy.
 - Understand your users' wants and create relevant content.
@@ -27,10 +26,13 @@ Some common search goals:
 - Search gathers data for research or analysis.
 
 3. Explain the goal
+There’s a reason you want this article written (otherwise, why spend time and money creating it?). 
+
 Share your goal with the writer. Help them understand why they’re writing something and they’ll have a better chance at hitting your goal.
 
 Examples:
 Explain how to create an effective content brief.
+Document our experience as sponsors of the BrightonSEO conference.
 Share our CEO’s opinion on cloud architecture.
 Teach existing users how to use our new keyword clustering feature for keyword research.
 
@@ -42,8 +44,9 @@ The main title blog should include target topic keywords without any symbols lik
 Think of crawlers as readers skimming your blog. Your H1 should give them a sense of your article's topic. Then H2, H3, and H4 divide down subtopics. Heading (H2) and Subheadings(H3) should represent body content and feature high-intent keywords. Your SERP ranking increases when you use terms your target audience uses.
 
 5. Outline Structure
-An SEO-optimized outline with H1, H2, and H3 headings that reflect the main topics covered.
-Structure your outline based on top-ranking articles for your target keyword. Emulate their heading structure. Use heading analyzer tools to create engaging, click-worthy headlines.
+A content outline provides a checklist of things you want to include in every piece you write. 
+
+Crafting an SEO-optimized outline is pivotal for content success. Ensure a logical flow—each section should seamlessly transition. Incorporate LSI keywords for contextual richness. Prioritize user intent, addressing queries comprehensively. Think of the outline as a roadmap, guiding readers through valuable information. Use headers and subheaders strategically, aiding both readability and SEO. Remember, an effective outline aligns with search engine algorithms and captivates your audience simultaneously. It's the foundation for a compelling, discoverable piece.
 
 Share sub-topics to include
 You can help your writer by suggesting important sub-topics to include in the article.
@@ -57,16 +60,20 @@ With all the SEO rules, it's easy to forget that Google users want answers. Writ
 
 Each paragraph is dense with an entity, semantic and related keywords. Do not place excessive keywords, this will be considered keyword spamming. Consider your reader's persona, difficulties, and interests. You should also choose topics that appeal to potential readers and solve their problems.
 
-Each H2 heading section has at least 500 words divided into several paragraphs. Each paragraph consists of 2 to 4 sentences (make a random number in each heading/subheading section).
+Each H2 heading section has at least 500 words divided into several paragraphs. Each paragraph consists of 2 to 4 sentences (make a random in each heading/subheading section).
 
-If you use h3, each h3 subheading comprises 2 to 4 paragraphs or 60 words. 
-
-Both the h2 heading and h3 subheading sections must have a different number of paragraphs. But first, use 1 or 2 paragraphs in the h2 heading before we get to the h3 content. Please don't overdo it in writing h3.
+If you use h3, each h3 subheading comprises 2 to 4 paragraphs or 60 words. Please don't overdo it in writing h3.
 
 Brief, precise, and brief sentences should not exceed 20 words. Reading sentences over 20 syllables is difficult. Write it SEO-friendly. Don't shorten every sentence—balance.
 
 Suggest ways to make the article unique
 Virtually every article has to compete for attention with similar articles covering the same topic. To help your article stand out, you can suggest unique information to include—things that competing articles don’t cover.
+
+You could include data and statistics to reference. You could even share a few personal experiences and stories that might help the reader understand the topic.
+
+Examples:
+Let’s tell the story of how I used keyword clustering to rank for 1200-keywords with one article.
+Here’s some research about the costs of cloud hosting for you to reference.
 
 Don't utilize common transition words.
 Use headings H2, subheadings H3, and structured lists to organize the article. H2 or H3 heading will be the starting point of each main section in the article. H3 subheading to break the main section into sub-sections. Use keywords in Subheadings (H2, H3, etc.) that are relevant to the content below them.
@@ -90,19 +97,3 @@ Keyword Placement
 Remember! Keyword overuse may compromise article flow and naturalness. Avoid this SEO strategy to avoid search engine penalties.
 
 You can use keywords without sacrificing article quality using this method. The idea is to give your audience meaningful knowledge and solutions. Search engines like Google may flag your material as irrelevant if readers struggle to grasp it.
-
-8. Apply the Google EAT algorithm in article writing techniques.
-E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness) is part of Google's Search Quality Rater Guideline. It is an acronym that describes the criteria that Google uses to determine whether a website has the necessary expertise, authority, and trustworthiness to rank highly in search results. 
-
-1. Experience refers to the creator's length of time and depth of exposure to the topic. To exhibit experience, write well-researched, factual, and insightful content. 
-
-2. Build Expertise: To build niche or industry expertise to apply the Google E-E-A-T algorithm to blog authoring. Regularly publish high-quality content that showcases your expertise. This could include unique research, in-depth analysis, and practical guidance.
-
-3. Establish Authoritativeness: To gain authority, become a respected industry expert. To build authoritativeness, position yourself as an expert in your niche by showcasing your credentials and experience. 
- 
-4. Build Trustworthiness: To build trustworthiness, you should keep your content accurate and reliable. 
-
-To build expertise in a specific topic and create high-quality content, follow these steps:
-- Before diving into writing, make sure you have a deep understanding of the topic. 
-- Create content that is accurate, informative, and helpful to users.
-- To make information easy to read and understand to reach more people. Avoid technical jargon and use plain language to avoid confusing readers. Use headers, subheadings, and bullet points to organize and break up the text.
