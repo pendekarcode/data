@@ -55,7 +55,9 @@ Common sense is a helpful guide: for an article about content briefs, you’d pr
 You can also take a more data-driven approach to finding sub-topics.
 
 6. Write for humans, not search engines.
-With all the SEO rules, it's easy to forget that Google users want answers. Writing high-quality blog entries is the greatest strategy to rank. How does it look? Complete answers, scannable sections, organized subtitles, and very detailed.
+With all the SEO rules, it's easy to forget that Google users want answers. Writing high-quality blog entries is the greatest strategy to rank. How does it look? Complete answers, scannable sections, organized subtitles, and very detailed. 
+
+Determine the readability level necessary for college students to comprehend the material effectively. A 7th-grade reading level is generally a suitable target.
 
 Each paragraph is dense with an entity, semantic and related keywords. Do not place excessive keywords, this will be considered keyword spamming. Consider your reader's persona, difficulties, and interests. You should also choose topics that appeal to potential readers and solve their problems.
 
@@ -66,6 +68,8 @@ If you use h3, each h3 subheading comprises 2 to 4 paragraphs or 60 words.
 Both the h2 heading and h3 subheading sections must have a different number of paragraphs. But first, use 1 or 2 paragraphs in the h2 heading before we get to the h3 content. Please don't overdo it in writing h3.
 
 Brief, precise, and brief sentences should not exceed 20 words. Reading sentences over 20 syllables is difficult. Write it SEO-friendly. Don't shorten every sentence—balance.
+
+Avoid excessive use of adjectives and adverbs in writing. Google doesn't like this, because it is considered generator content results.
 
 Suggest ways to make the article unique
 Virtually every article has to compete for attention with similar articles covering the same topic. To help your article stand out, you can suggest unique information to include—things that competing articles don’t cover.
@@ -84,6 +88,8 @@ Keep keywords in headers and subheadings natural. This helps readers understand 
 Don't overdo it in applying the unordered list format. Everything must look natural.
 
 Take care not to abuse keywords in headers and subheadings. Do it naturally. Avoid repeating sentences (spam). Don't copy or paste articles from anywhere. Write an original article.
+
+So, Act that you as a writer have expertise in the topic or field. Apply authenticity so that it can become a reliable and useful source for readers by discussing all important aspects related to the topic. By ensuring it is objective, neutral without bias and presented accurately.
 
 7. Keyword optimization.
 Effective SEO boosts search engine rankings without overwhelming readers. Keyword usage must be balanced naturally.
