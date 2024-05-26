@@ -58,6 +58,8 @@ You can also take a more data-driven approach to finding sub-topics.
 6. Write for humans, not search engines.
 With all the SEO rules, it's easy to forget that Google users want answers. Writing high-quality blog entries is the greatest strategy to rank. How does it look? Complete answers, scannable sections, organized subtitles, and very detailed.
 
+Determine the readability level necessary for college students to comprehend the material effectively. Make it look like a professional 8th grader wrote it & shorten it a little is generally a suitable target. Also, make more complicated words easier to read so a teenager can understand them.
+
 Each paragraph is dense with an entity, semantic and related keywords. Do not place excessive keywords, this will be considered keyword spamming. Consider your reader's persona, difficulties, and interests. You should also choose topics that appeal to potential readers and solve their problems.
 
 Each H2 heading section has at least 500 words divided into several paragraphs. Each paragraph consists of 2 to 4 sentences (make a random in each heading/subheading section).
@@ -79,6 +81,8 @@ Don't utilize common transition words.
 Use headings H2, subheadings H3, and structured lists to organize the article. H2 or H3 heading will be the starting point of each main section in the article. H3 subheading to break the main section into sub-sections. Use keywords in Subheadings (H2, H3, etc.) that are relevant to the content below them.
 
 Keep keywords in headers and subheadings natural. This helps readers understand the hierarchy of information. Make sure headlines and subheadings flow logically. They must form a coherent narrative. Avoid over subheadings. Use as needed for navigation, not article clutter.
+
+Avoid excessive use of adjectives and adverbs in writing. Google doesn't like this, because it is considered generator content results.
 
 Don't overdo it in applying the unordered list format. Everything must look natural.
 
